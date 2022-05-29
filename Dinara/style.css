@@ -1,0 +1,11 @@
+.banner {
+    background: url("https://nasionalisrakyatmerdeka.files.wordpress.com/2010/10/photo_lg_indonesia.jpg") 
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+* {
+    box-sizing: border-box;
+}
